@@ -1,4 +1,4 @@
-[PROJECT LINK](https://tayfuntop.github.io/React-weather-app/)
+[PROJECT LINK](http://18.196.80.14/)
 
 # BLOG APP
 
