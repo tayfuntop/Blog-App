@@ -2,14 +2,6 @@
 
 # BLOG APP
 
-## 📷 Project Image
-
-![Ekran görüntüsü 2023-02-24 153845](https://user-images.githubusercontent.com/100048051/221181622-2314aede-f343-476c-854a-a9fe37fc02ea.jpg)
-
-## 🎥 Project video
-
-https://user-images.githubusercontent.com/100048051/221183136-cbca6b8c-95ba-44d4-a655-de85ecf8a586.mp4
-
 ## 🛠  Technologies and tools
 
 <p>
@@ -61,3 +53,11 @@ npm start
 These instructions will get a copy of the project up and 
 running on your local machine for development and testing purposes.
 ```
+
+## 📷 Project Image
+
+![Ekran görüntüsü 2023-02-24 153845](https://user-images.githubusercontent.com/100048051/221181622-2314aede-f343-476c-854a-a9fe37fc02ea.jpg)
+
+## 🎥 Project video
+
+https://user-images.githubusercontent.com/100048051/221183136-cbca6b8c-95ba-44d4-a655-de85ecf8a586.mp4
